@@ -1,5 +1,5 @@
 # 👋 Sanidhya Mehra
-### Full Stack Developer | Web & Backend Engineer
+### Full Stack Developer | Backend & Cloud Engineer
 
 <p align="center">
   <a href="mailto:Sanidhya.web@gmail.com">
@@ -29,98 +29,109 @@
 
 ---
 
-## 👨‍💻 About Me
-
-I am a **Full Stack Developer** passionate about building **scalable, high-performance web applications** and intuitive digital experiences.  
-Currently pursuing **B.Tech in Computer Science at SKIT Jaipur**, with hands-on experience in **backend development, APIs, cloud deployment, and modern frontend frameworks**.
-
----
-
 ## 🎓 Education
 
-### SKIT, Jaipur
+### **SKIT, Jaipur**
 **B.Tech in Computer Science**  
 *September 2023 – May 2027*  
 - **GPA:** 8.25
 
-### St. Anselm's School, Abu Road
-*March 2021 – March 2023*  
+### **St. Anselm's School, Abu Road**
+*March 2021 – 2023*  
 - **Class 12th:** 70.76%  
 - **Class 10th:** 74.63%
 
 ---
 
-## 💻 Technologies & Skills
+## 💻 Technologies
 
-### Programming Languages
-C++, C, Python, JavaScript
+**Languages:**  
+C++, C, Python, JavaScript  
 
-### Frontend
-HTML, CSS, Tailwind CSS, Bootstrap, React, Next.js
+**Frontend:**  
+HTML, CSS, Tailwind CSS, Bootstrap, React, Next.js  
 
-### Backend & Databases
-Node.js, Express.js, MongoDB, MySQL, GraphQL, PHP, REST APIs
+**Backend & Databases:**  
+Node.js, Express.js, MongoDB, MySQL, GraphQL, PHP, REST APIs  
 
-### Cloud & DevOps
-AWS (EC2), Docker, Docker Hub, Git, GitHub
+**Cloud & DevOps:**  
+AWS (EC2), Docker, Docker Hub, Azure  
 
 ---
 
 ## 🛠️ Experience
 
-### Software Engineer Intern — TRAK-TWIN
-🔗 https://traktwin.vercel.app
+### **Backend Developer — Fulminious Software**
+🔗 https://github.com/sanidhya-Git/playspinwin-backend
 
-- Developed a web-based platform for a travel technology company to showcase tours and packages.
-- Designed and integrated backend APIs to support dynamic content and system scalability.
-- Collaborated with cross-functional teams to improve performance and reliability.
+- Constructed a MongoDB-based NoSQL database supporting **10+ microservices**, ensuring seamless data access.
+- Integrated **Redis and BullMQ** for background job processing, reducing server requirements by **30%** and lowering infrastructure costs.
+- Implemented **CI/CD pipelines using GitHub Actions**, reducing deployment time by **25%** and accelerating release cycles.
 
 ---
 
-### Software Development Engineer — Financial Port
-🔗 https://www.wealthvisory.in
+### **CSV Analyzer (VS Code Extension)**
+🔗 https://csv-qya2.onrender.com
 
-- Built a portfolio management system for clients.
-- Implemented real-time tracking of stocks, mutual funds, and SIPs.
-- Improved data handling and UI responsiveness.
+- Built a **Streamlit + FastAPI** based CSV analysis tool with automated visualizations and AI dataset preparation.
+- Improved data exploration accuracy by **10%** across multiple projects.
+- Published on **VS Code Marketplace** with **500+ downloads**.
+
+---
+
+### **Software Development Engineer — Financial Port**
+🔗 https://finanaceportal.vercel.app/
+
+- Developed a portfolio management system with **real-time stock and SIP tracking**.
+- Enhanced financial data visibility and user experience.
 
 ---
 
 ## 🚀 Projects
 
-### SNT-Club
+### **SNT-Club**
 🔗 https://snt-club.vercel.app
 
-- Built a scalable backend serving 600+ students.
-- Developed an interactive collaboration and learning platform.
-- **Tech Stack:** Next.js, MongoDB, Zod, React Query, Nodemailer
+- Built a scalable backend supporting **600+ users**.
+- Developed an interactive collaboration platform.
+- Deployed a **microservices architecture** using Next.js, MongoDB, and Docker.
+- Reduced API latency by **150ms** and achieved **99.95% uptime** while lowering infrastructure costs.
 
 ---
 
-### SKIT Faculty Portal
+### **SKIT Faculty Portal**
 🔗 https://github.com/sanidhya-Git/skit_fawithfork
 
-- Developed a centralized faculty management system used by 120+ educators.
-- **Tech Stack:** HTML, JavaScript, Bootstrap, PHP
+- Designed a centralized faculty management system used by **120+ educators**.
+- **Tech Stack:** HTML, JavaScript, Bootstrap, PHP.
 
 ---
 
-### Rent Management System
+### **Rent Management System**
 🔗 https://rentalog.vercel.app/#home
 
-- Built a property listing and rent management platform.
+- Built a property listing and rent management web application.
 - Developed RESTful APIs using Express.js and MongoDB.
-- **Tech Stack:** React.js, MongoDB, Express.js
+- Improved overall application response time by **18%**.
+
+---
+
+### **Software Engineer Intern — TRAK-TWIN**
+🔗 https://traktwin.vercel.app/
+
+- Authored comprehensive API documentation for newly designed services.
+- Improved team onboarding efficiency and reduced training time by **25%**.
 
 ---
 
 ## 📜 Courses & Certifications
 
-- Google Cloud AgentSpace (ADK Kit) — 2025
-- Google Cloud Generative AI — 2025
-- Salesforce Trailhead: AI Model Training Badges — 2025
-- Salesforce AI Agent Badges — 2025
-- Advanced C++ — 2024
+- 🏅 [Red Hat Linux Foundation (2025)](https://www.credly.com/badges/503b1077-5a90-4ee2-96af-bb41ed903993/public_url)
+- 🏅 [Databricks Fundamentals & Lakehouse (2025)](https://credentials.databricks.com/a936cf4c-0318-4699-9fc2-4fbcc76fc55c#acc.axSU8CXc)
+- 🏅 [Databricks Generative AI Fundamentals (2025)](https://credentials.databricks.com/830c6d45-16bb-42ba-87c5-6a21d5d1b694#acc.io5qy6Vl)
+- 🏅 [Google Cloud Generative AI (2025)](https://www.cloudskillsboost.google/paths/118)
+- 🏅 [Advanced C++ (2024)](https://drive.google.com/file/d/1huCMXl22s2LsDWMz_knj4eJWuEtVC0M1/view)
+- 🏅 [MERN Stack (2024)](https://drive.google.com/file/d/10QCM_Q6qXekjTO_-R0RO9i1YB5f7SLnK/view)
 
 ---
 
@@ -128,9 +139,9 @@ AWS (EC2), Docker, Docker Hub, Git, GitHub
 
 - Backend Engineering & System Design  
 - Cloud & DevOps  
-- Open-source Contributions  
-- Building Production-Ready Applications  
+- API Development  
+- Building scalable, production-ready systems  
 
 ---
 
-📌 *Always open to collaboration and learning new technologies.*
+📌 *Open to internships, collaborations, and exciting full-stack opportunities.*
