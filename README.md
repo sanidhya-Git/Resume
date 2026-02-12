@@ -55,7 +55,7 @@ HTML, CSS, Tailwind CSS, Bootstrap, React, Next.js
 Node.js, Express.js, MongoDB, MySQL, GraphQL, PHP, REST APIs  
 
 **Cloud & DevOps:**  
-AWS (EC2), Docker, Docker Hub, Azure  
+AWS (EC2), Docker, Docker Hub, Azure ,GCP
 
 ---
 
@@ -134,7 +134,6 @@ AWS (EC2), Docker, Docker Hub, Azure
 - 🏅 [MERN Stack (2024)](https://drive.google.com/file/d/10QCM_Q6qXekjTO_-R0RO9i1YB5f7SLnK/view)
 
 ---
-
 ## ⭐ Interests
 
 - Backend Engineering & System Design  
